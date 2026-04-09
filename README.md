@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kiraxbt/kiraxbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+██╗  ██╗██╗██████╗  █████╗ ██╗  ██╗██████╗ ████████╗
+██║ ██╔╝██║██╔══██╗██╔══██╗╚██╗██╔╝██╔══██╗╚══██╔══╝
+█████╔╝ ██║██████╔╝███████║ ╚███╔╝ ██████╔╝   ██║   
+██╔═██╗ ██║██╔══██╗██╔══██║ ██╔██╗ ██╔══██╗   ██║   
+██║  ██╗██║██║  ██║██║  ██║██╔╝ ██╗██████╔╝   ██║   
+╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝    ╚═╝   
+```
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+things+that+matter.;Code+%E2%80%A2+Create+%E2%80%A2+Innovate." alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Kiraxbt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kiraxbt)
+
+
+</div>
+
+---
+
+### `> whoami`
+
+```yaml
+name: Kiraxbt
+location: Internet
+focus: Blockchain 
+status: Always building something
+```
+
+---
+
+<div align="center">
+
+### Tech Stack
+
+<br>
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Kiraxbt&color=A177FE&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br><br>
+
+**If you like what I build, drop a star.**
+
+</div>
