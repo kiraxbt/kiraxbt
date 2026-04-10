@@ -58,8 +58,8 @@ status: Always building something
 **If you like what I build, drop a star.**
 
 </div>
-### Donate
 
+**COFFE HERE.**
 <br>
 
 <img src="https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="XMR" />
