@@ -58,3 +58,22 @@ status: Always building something
 **If you like what I build, drop a star.**
 
 </div>
+### Donate
+
+<br>
+
+<img src="https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="XMR" />
+
+```
+49284mUPqYmbm9nLNjGPuKgS56nhRtawGfxJXa6TK6dF5aVD8UdiGX3KvDwrBdK5y25kK8ieh6J8x28uXy3RjjEwJecRbwF
+```
+
+<br>
+
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ETH" />
+
+```
+0x3F5759c94926dDe12D9C7444177e0AFdc30c0587
+```
+
+</div>
