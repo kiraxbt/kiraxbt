@@ -59,7 +59,7 @@ status: Always building something
 
 </div>
 
-**COFFE HERE.**
+**DONATION**
 <br>
 
 <img src="https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="XMR" />
